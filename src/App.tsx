@@ -1,4 +1,6 @@
 import React from 'react';
+import { Button } from '@antmjs/vantui'
+import { View } from '@tarojs/components'
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,6 +20,8 @@ function App() {
         >
           Learn React
         </a>
+        <View><Button type='primary'>Hello World!</Button></View>
+        <div>上面的按钮的颜色已经通过全局主题重写覆盖了，参见src/style/index.less</div>
       </header>
     </div>
   );

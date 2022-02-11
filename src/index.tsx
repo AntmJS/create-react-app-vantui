@@ -1,8 +1,15 @@
+import { defineCustomElements, applyPolyfills } from '@tarojs/components/loader';
+import { init } from '@antmjs/vantui';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+init()
+applyPolyfills().then(function () {
+  defineCustomElements(window)
+})
 
 ReactDOM.render(
   <React.StrictMode>
