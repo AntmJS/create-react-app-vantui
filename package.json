@@ -3,12 +3,12 @@
   "version": "1.4.11",
   "private": true,
   "dependencies": {
-    "@antmjs/vantui": "1.4.11",
+    "@antmjs/vantui": "^1.4.12",
     "@babel/core": "7.12.3",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
     "@svgr/webpack": "5.5.0",
-    "@tarojs/components": "3.3.19",
-    "@tarojs/taro": "^3.3.19",
+    "@tarojs/components": "^3.4.1",
+    "@tarojs/taro": "^3.4.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -74,8 +74,8 @@
     "test": ""
   },
   "devDependencies": {
-    "@antmjs/babel-preset": "^1.17.5",
-    "@antmjs/plugin-vantui": "^1.17.5",
+    "@antmjs/babel-preset": "^1.17.6",
+    "@antmjs/plugin-vantui": "^1.17.6",
     "@babel/plugin-proposal-private-property-in-object": "^7.16.7",
     "@types/react-dom": "^17.0.11",
     "babel-plugin-import": "^1.13.3",
