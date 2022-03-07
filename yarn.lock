@@ -19,10 +19,10 @@
   resolved "https://registry.npmmirror.com/@antmjs/plugin-vantui/-/plugin-vantui-1.17.6.tgz#c740b305043131691340b67780852efd06bf97d9"
   integrity sha512-63Dc/sxl7vOlq4lBZHeFoo0acjenm4hNwBaIyfmiwsDO29c6Z8QG8DupW+R12T2AwR+8hqJ8tB29dpP1RAoDgw==
 
-"@antmjs/vantui@^1.5.0":
-  version "1.5.0"
-  resolved "https://registry.npmmirror.com/@antmjs/vantui/-/vantui-1.5.0.tgz#53b046f2f6d6a56e3cffc0cea690768299416f69"
-  integrity sha512-Tr1BJj2JxhHov1V5Qr3XMKZoCPa2UZmrFjM0Iups/VTzjKj+LPQaFxS9Cz3qyVfx+GKWelalzDGJTHdXi0hYEQ==
+"@antmjs/vantui@^1.5.1":
+  version "1.5.1"
+  resolved "https://registry.npmmirror.com/@antmjs/vantui/-/vantui-1.5.1.tgz#10917fe8765afd9d24b6e02e5c9d85908df0d841"
+  integrity sha512-HarY6gQlMIq2kFYICTVKp79I8sb9Ycyp5Z9M53kXlcXJKKiq0EmbTOQUDQFH3QeOUCWnNAbgBnzLn91DkgYRFA==
   dependencies:
     "@antmjs/iconfont" "1.17.5"
     "@babel/runtime-corejs3" "^7.14.7"
